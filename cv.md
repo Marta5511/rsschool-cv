@@ -40,6 +40,11 @@ I am 31 years old, and I am working in Bank as HP Service Manager developer. In 
   else return ""
  }
  ```
+#### Education
+------------------
+ACADEMY OF PUBLIC ADMINISTRATION UNDER THE PRESIDENT OF THE REPUBLIC OF BELARUS
+Information resource management
+
 #### Experience
 ------------------
 HP Service Manager Software Support and Development Specialist
